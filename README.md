@@ -18,4 +18,4 @@ Interested in security research, anomaly detection, and data labeling for ML. Co
 
 ### 📫 Reach me
 
-Email: lszyszko@calpoly.edu
+Email: lucaszy08@gmail.com
