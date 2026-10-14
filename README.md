@@ -20,6 +20,6 @@ I like building complete systems end to end, from the detection logic to the das
 
 Interested in security research, anomaly detection, and data labeling for ML. Comfortable working independently in remote, project-based settings. Outside of code, I do stand-up comedy and sail with the Sea Scouts, both of which keep me quick on my feet and clear when I communicate.
 
-### 📫 Reach me
+### Reach me
 
 **Email:** lucaszy08@gmail.com
