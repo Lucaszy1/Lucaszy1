@@ -10,9 +10,11 @@ I like building complete systems end to end, from the detection logic to the das
 
 **[Ultron](https://github.com/Lucaszy1/Ultron)** is a configurable AI bookkeeping assistant for QuickBooks (Flask + Claude API) that parses, validates, and reconciles messy spreadsheet exports for sales orders, item codes, inventory, and duplicates, with fuzzy column auto-mapping and a swappable business config so it adapts to any inventory-based business.
 
+**[Hindsight](https://github.com/Lucaszy1/Hindsight)** is a human-in-the-loop annotation and active-learning pipeline. I rate AI chatbot conversations, store the annotations in MongoDB (documents, indexes, aggregation pipelines), train a scikit-learn classifier on the labels, and compare uncertainty sampling against random sampling, with the results documented honestly on a small sample.
+
 ### 🧰 Tech I work with
 
-`Python` · `JavaScript` · `SQL` · `Bash` · `Flask` · `scikit-learn` · `SQLite` · `Docker` · `Git` · `Chart.js` · `REST APIs`
+`Python` · `JavaScript` · `SQL` · `Bash` · `Flask` · `scikit-learn` · `SQLite` · `Docker` · `Git` · `Chart.js` · `REST APIs` · `MongoDB`
 
 ### 🧠 A bit more
 
