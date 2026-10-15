@@ -22,4 +22,5 @@ Interested in security research, anomaly detection, and data labeling for ML. Co
 
 ### Reach me
 
-**Email:** lucaszy08@gmail.com
+**Email:** lucaszy08@gmail.com  
+**LinkedIn:** [linkedin.com/in/luca-szyszkowski-2a8832432](https://www.linkedin.com/in/luca-szyszkowski-2a8832432)
