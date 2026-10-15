@@ -8,7 +8,7 @@ I like building complete systems end to end, from the detection logic to the das
 
 **[RansomwareAudit](https://github.com/Lucaszy1/RansomwareAudit)** is an independent ransomware detection tool combining entropy analysis, behavioral monitoring, permission auditing, and an unsupervised ML model, with an encrypted quarantine vault, real-time monitoring, a web dashboard, and a full test and evaluation harness.
 
-**[Ultron](https://github.com/Lucaszy1/Ultron)** is a configurable AI bookkeeping assistant for QuickBooks (Flask + Claude API) that parses, validates, and reconciles messy spreadsheet exports for sales orders, item codes, inventory, and duplicates, with fuzzy column auto-mapping and a swappable business config so it adapts to any inventory-based business.
+**[Ultron](https://github.com/Lucaszy1/Ultron)** is a configurable AI bookkeeping assistant for QuickBooks that parses, validates, and reconciles messy spreadsheet exports for sales orders, item codes, inventory, and duplicates, with fuzzy column auto-mapping and a swappable business config so it adapts to any inventory-based business.
 
 **[Hindsight](https://github.com/Lucaszy1/Hindsight)** is a human-in-the-loop annotation and active-learning pipeline. I rate AI chatbot conversations, store the annotations in MongoDB (documents, indexes, aggregation pipelines), train a scikit-learn classifier on the labels, and compare uncertainty sampling against random sampling, with the results documented honestly on a small sample.
 
