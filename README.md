@@ -6,6 +6,8 @@ I like building complete systems end to end, from the detection logic to the das
 
 ### What I'm working on
 
+**[Alibi](https://github.com/Lucaszy1/Alibi)** is a provenance-aware adjudicator for AI coding agents. When endpoint security flags something an agent did, Alibi decides whether you actually asked for it or whether it traces back to an injected instruction hidden in a web page, file, or tool output, and returns a clear verdict: justified, unjustified, or hijacked. The core is fully deterministic and never runs the actions it judges, with a tiered pipeline spanning provenance, taint tracking, MITRE-mapped policy, and anomaly detection, plus homoglyph and leetspeak normalization to catch obfuscated prompt injection.
+
 **[RansomwareAudit](https://github.com/Lucaszy1/RansomwareAudit)** is an independent ransomware detection tool combining entropy analysis, behavioral monitoring, permission auditing, and an unsupervised ML model, with an encrypted quarantine vault, real-time monitoring, a web dashboard, and a full test and evaluation harness.
 
 **[Ultron](https://github.com/Lucaszy1/Ultron)** is a configurable AI bookkeeping assistant for QuickBooks that parses, validates, and reconciles messy spreadsheet exports for sales orders, item codes, inventory, and duplicates, with fuzzy column auto-mapping and a swappable business config so it adapts to any inventory-based business.
