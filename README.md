@@ -18,7 +18,7 @@ I like building complete systems end to end, from the detection logic to the das
 
 ### Tech I work with
 
-`Python` · `JavaScript` · `SQL` · `Bash` · `Flask` · `scikit-learn` · `SQLite` · `Docker` · `Git` · `Chart.js` · `REST APIs` · `MongoDB` . 'Linux
+`Python` · `JavaScript` · `SQL` · `Bash` · `Flask` · `scikit-learn` · `SQLite` · `Docker` · `Git` · `Chart.js` · `REST APIs` · `MongoDB` · `Linux`
 
 ### A bit more
 
