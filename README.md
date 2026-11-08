@@ -6,6 +6,8 @@ I like building complete systems end to end, from the detection logic to the das
 
 ### What I'm working on
 
+**[Crucible](https://github.com/Lucaszy1/Crucible)** is a simulated range where AI defenders practice containment judgment. Two AI teams play out an exercise on a toy company network, one probing for a way in and the other watching logs and deciding what to shut down, while a separate model audits every defensive decision against the evidence the defender actually had. Every move is logged, so any run can be replayed and scored. I built it solo for Meta's Global AI Developer Hackathon, and the results come with their limits stated plainly, including a first campaign I threw out after catching a bug in my own test setup.
+
 **[Alibi](https://github.com/Lucaszy1/Alibi)** is a provenance-aware adjudicator for AI coding agents. When endpoint security flags something an agent did, Alibi decides whether you actually asked for it or whether it traces back to an injected instruction hidden in a web page, file, or tool output, and returns a clear verdict: justified, unjustified, or hijacked. The core is fully deterministic and never runs the actions it judges, with a tiered pipeline spanning provenance, taint tracking, MITRE-mapped policy, and anomaly detection, plus homoglyph and leetspeak normalization to catch obfuscated prompt injection.
 
 **[RansomwareAudit](https://github.com/Lucaszy1/RansomwareAudit)** is an independent ransomware detection tool combining entropy analysis, behavioral monitoring, permission auditing, and an unsupervised ML model, with an encrypted quarantine vault, real-time monitoring, a web dashboard, and a full test and evaluation harness.
